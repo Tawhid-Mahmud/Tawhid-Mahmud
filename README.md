@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tawhid-Mahmud
 - 👀 I’m interested in iOS development and web development.
-- 🌱 I’m currently learning to build iOS app to find the best restaurant near me.
-- 💞️ I’m looking to collaborate on my new app that finds a random restaurant near you with good rating. 
+- 🌱 I'm always interested in learning new things and building stuff.
+-    I would be happy to collab in any project. 
 - 📫 How to reach me tawhid.mahmud42@gmail.com
 
 <!---
